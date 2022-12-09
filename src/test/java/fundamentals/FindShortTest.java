@@ -23,7 +23,7 @@ public class FindShortTest {
     }
 
     @Test
-    public void testFindShort() {
+    public void findShorTest() {
         assertEquals(3, findShort("bitcoin take over the world maybe who knows perhaps"));
         assertEquals(3, findShort("turns out random test cases are easier than writing out basic ones"));
         assertEquals(2, findShort("Let's travel abroad shall we"));

@@ -14,7 +14,7 @@ public class SquareSumTest {
     }
 
     @Test
-    public void testSquareSum() {
+    public void squareSumTest() {
         assertEquals(9, squareSum(new int[]{1, 2, 2}));
         assertEquals(5, squareSum(new int[]{1, 2}));
         assertEquals(50, squareSum(new int[]{5, -3, 4}));

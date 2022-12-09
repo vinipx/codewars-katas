@@ -15,7 +15,7 @@ public class DigitizeTest {
     }
 
     @Test
-    public void testDigitize() {
+    public void digitizeTest() {
         assertArrayEquals(new int[]{1, 3, 2, 5, 3}, digitize(35231));
         assertArrayEquals(new int[]{0}, digitize(0));
     }

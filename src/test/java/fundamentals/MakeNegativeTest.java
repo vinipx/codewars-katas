@@ -11,7 +11,7 @@ public class MakeNegativeTest {
     }
 
     @Test
-    public void testMakeNegative() {
+    public void makeNegativeTest() {
         assertEquals(-42, makeNegative(42));
     }
 }
