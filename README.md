@@ -1,6 +1,6 @@
 # codewars-katas
-codewars-katas exercises
 
+## "Codewars is an educational community for computer programming. On the platform, software developers train on programming challenges known as kata. These discrete programming exercises train a range of skills in a variety of programming languages, and are completed within an online integrated development environment" - [Wikipedia](https://en.wikipedia.org/wiki/Codewars)
 
 ## Kata Ranking (kyu)
 *source: [Codewars Wiki Honor & Ranks](https://github.com/Codewars/codewars.com/wiki/Honor-&-Ranks) and [Codewars Wiki Kata Ranking](https://github.com/Codewars/codewars.com/wiki/Kata-Ranking)*
